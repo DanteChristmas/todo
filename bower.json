@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "description": "mean stack app with gulp",
+  "main": "app.js",
+  "authors": [
+    "Josh Sullivan"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jjs5286/todo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.4",
+    "angular-route": "^1.5.3"
+  },
+  "resolutions": {
+    "angular": "1.5.3"
+  }
+}
